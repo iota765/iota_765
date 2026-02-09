@@ -1,35 +1,37 @@
 <h1 align="center">Hi 👋, I'm Gaurav Patni</h1>
-<h3 align="center">AI & ML Enthusiast | Python| Sometimes into CP</h3>
+<h3 align="center">AI & ML Enthusiast from Roorkee</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=iota_765&label=Profile%20views&color=0e75b6&style=flat" alt="iota_765" />
+<img src="https://komarev.com/ghpvc/?username=iota765&label=Profile%20views&color=0e75b6&style=flat" alt="iota765" />
 </p>
 
 ---
 
 ### 🧑‍🎓 About Me
 
-- 🎓 **Undergraduate Student** specializing in AI/ML.
-- 💻 **Focus:** Bridging the gap between raw data and actionable AI insights.
-- 📫 Email: **gauravpatni1923@gmail.com**
+- 🎓 **Undergraduate Student** specializing in AI/ML
+- 👀 **Interested in:** Machine Learning & AI
+- 🌱 **Learning:** LLMs and System Design
+- 💻 **Building:** [AI Job Scout](https://github.com/iota765/Job_Search_Agent) — A role-match tool using FastAPI & LLMs
+- 📫 **Email:** gauravpatni1923@gmail.com
 
 ---
 
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://leetcode.com/u/black_mamba_2005/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" width="40" height="40" />
-  </a>
-  <a href="https://codeforces.com/profile/GAURAV_07" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/code-forces.svg" alt="codeforces" width="40" height="40" />
-  </a>
-  <a href="mailto:gauravpatni1923@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" width="40" height="40" />
-  </a>
-  <a href="https://github.com/iota_765" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" width="40" height="40" />
-  </a>
+<a href="https://leetcode.com/u/black_mamba_2005/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="https://codeforces.com/profile/GAURAV_07" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+</a>
+<a href="mailto:gauravpatni1923@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/iota765" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
+</a>
 </p>
 
 ---
@@ -44,26 +46,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" title="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
 </p>
-
----
-
-## 🛠️ Featured Project: AI Job Scout
-**A Decoupled System for Real-time Career Alignment**
-- **Backend:** FastAPI, Groq (Llama 3.1), LangChain.
-- **Frontend:** Streamlit.
-- **Key Feature:** Scrapes live job descriptions from Google Careers/Amazon and performs a brutal honest fit analysis against user resumes.
-- [View Repository](https://github.com/iota_765/Job_Search_Agent)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iota_765&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iota_765&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iota765&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iota765&theme=tokyonight" width="48%"/>
 </p>
 
 ---
-<p align="center">⭐️ From [iota_765](https://github.com/iota_765)</p>
+<p align="center">⭐️ From [iota765](https://github.com/iota765)</p>
