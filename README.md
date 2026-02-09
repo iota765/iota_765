@@ -11,8 +11,7 @@
 
 - 🎓 **Undergraduate Student** specializing in AI/ML
 - 👀 **Interested in:** Machine Learning & AI
-- 🌱 **Learning:** LLMs and System Design
-- 💻 **Building:** [AI Job Scout](https://github.com/iota765/Job_Search_Agent) — A role-match tool using FastAPI & LLMs
+- 🌱 **Learning:** RAG syastems and architectures
 - 📫 **Email:** gauravpatni1923@gmail.com
 
 ---
