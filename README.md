@@ -11,7 +11,7 @@
 
 - 🎓 **Undergraduate Student** specializing in AI/ML
 - 👀 **Interested in:** Machine Learning & AI
-- 🌱 **Learning:** RAG syastems and architectures
+- 🌱 **Learning:** RAG systems and architectures
 - 📫 **Email:** gauravpatni1923@gmail.com
 
 ---
